@@ -121,6 +121,7 @@ No plots displayed	         -     Check script execution for errors
 This provides step-by-step guidance for using the ECG MATLAB project. By following the instructions, users can successfully perform ECG filtering, R-peak detection, and HRV analysis using standard biomedical datasets.
 
 11. Author Information:
-•	Mallicka Mallick, Samia Islam
+•	Samia Islam
+Chittagong University of Engineering And Technology
 •	Project: ECG Signal Processing Manual
 
